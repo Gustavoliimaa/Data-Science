@@ -2,7 +2,7 @@
 Meu portfólio de projetos de Data Science
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://github.com/Gustavoliimaa/Data-Science/blob/main/banner%20(1).png" >
 </p>
 
 # Gustavo Lima
